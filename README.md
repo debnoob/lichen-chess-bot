@@ -4,5 +4,6 @@ this is just for the educational purposes and to know how the stockfish interact
 #INSTALLATION PROCESS 
 1-clone the repo by command git clone https://github.com/debnoob/lichen-chess-bot.git
 2 cd to the directory (cd lichen-chess-bot)
-3 run python3 main.py
-4 thats all
+3 Run python3 main.py
+4 Thats all
+
